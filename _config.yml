@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 lsi: false
 safe: true
-source: ./writings.github.io
+source: /writings.github.io
 incremental: false
 highlighter: rouge
 gist:
